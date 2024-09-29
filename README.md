@@ -92,7 +92,7 @@
 </ul>
 
 <h2>📦 Conclusion</h2>
-<p>This Arduino-based monitoring system serves as an effective solution for ensuring safety by continuously monitoring environmental conditions and providing immediate alerts when necessary. With simple components and a clear design, it’s perfect for both beginners and advanced users looking to enhance their understanding of electronics and programming.</p>
+<p>This Arduino-based monitoring system serves as an effective solution for ensuring safety by continuously monitoring environmental conditions and providing immediate alerts when necessary. </p>
 
 </body>
 </html>
