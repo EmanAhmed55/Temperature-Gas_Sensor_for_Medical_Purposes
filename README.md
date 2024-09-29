@@ -94,5 +94,12 @@
 <h2>📦 Conclusion</h2>
 <p>This Arduino-based monitoring system serves as an effective solution for ensuring safety by continuously monitoring environmental conditions and providing immediate alerts when necessary. </p>
 
+<h2>🏷️ Usages</h2>
+<p>This project can be utilized in various applications, including:</p>
+<ul>
+    <li><strong>Incubators</strong>: For monitoring temperature and gas levels to ensure a safe environment for newborns.</li>
+    <li><strong>Breath Analyzing Systems</strong>: A non-invasive and comfortable method for patients to monitor their respiratory health. For more details, refer to this <a href="https://www.researchgate.net/publication/288229242_Health_care_application_of_gas_sensors_Medical_devices_of_breath_analysis#:~:text=For%20the%20research%20goal%20of%20exhaled" target="_blank">research paper</a>.</li>
+</ul>
+
 </body>
 </html>
